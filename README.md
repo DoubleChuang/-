@@ -5,7 +5,7 @@
 	* iptvubootupdate.bin
 	* uboot.sh
 	* target.tgz 
-	  >sh4twbox 6in1的還原檔 [name=Double] [color=#9ff9ae]
+	  >sh4twbox 6in1的還原檔 
 
 
 * 2.未插電情況下 將隨身碟插入網樂通

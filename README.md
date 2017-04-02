@@ -4,6 +4,8 @@
 	iptvubootupdate.bin
 	uboot.sh
 	target.tgz  #sh4twbox 6in1
+
+
 2.未插電情況下 將隨身碟插入網樂通
 3.按住網樂通reset 並插上電源 放開 等待燈號變藍
 4.透過sudo apt-apt install arp-scan 抓取arp-scan

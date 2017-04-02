@@ -1,4 +1,7 @@
-nitrd.ub
+# [ 如何安裝 ]
+
+* 1.首先將隨身碟放入刷機檔案
+	* initrd.ub
 	* iptvubootupdate.bin
 	* uboot.sh
 	* target.tgz 
